@@ -1,5 +1,6 @@
 # 🛌🏼 About Me:
-🔭 I’m currently working on my portfolio website.<br>🌱 I’m currently learning HLSL shader language.<br>💬 Ask me about Unity or art!<br>⚡ Fun fact: I own scorpions and tarantulas~
+🔭 I’m currently working on my portfolio website.<br>🌱 I’m currently learning HLSL shader language.<br>💬 Ask me about Unity or art!<br>⚡ Fun fact: I own scorpions and tarantulas~<br>
+[Curriculum vitae](https://drive.google.com/file/d/1srt50fVvs0aeq7Lkx6U2oamVz5A75lVa/view?usp=sharing)
 
 
 ## 🌐 Socials:
